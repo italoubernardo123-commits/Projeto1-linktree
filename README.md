@@ -41,7 +41,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](). É necessári
 ## Evolução
 
 Adquirindo conhecimento através do curso inicial da Rocketseat!
-Este projeto abriu diversas chaves em minha cobeça, estou ansioso para poder aprender ainda mais e um dia fazer de todas as minhas ideias algo real! Aprender programação é uma experiencia extremamente empolgante.
+Este projeto abriu diversas chaves em minha cobeça. Estou ansioso para aprender ainda mais e um dia fazer de todas as minhas ideias algo real! Aprender programação é uma experiencia extremamente empolgante.
 
 ## :memo: Licença
 
