@@ -1,4 +1,4 @@
-<h1 align="center"> Linktree Italo </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -37,6 +37,11 @@ O DevLinks é um agregador de Links para usar como cartão de visitas online.
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## Evolução
+
+Adquirindo conhecimento através do curso inicial da Rocketseat!
+Este projeto abriu diversas chaves em minha cobeça, estou ansioso para poder aprender ainda mais e um dia fazer de todas as minhas ideias algo real! Aprender programação é uma experiencia extremamente empolgante.
 
 ## :memo: Licença
 
